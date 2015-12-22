@@ -1,0 +1,207 @@
+	1.	i 	Ez
+	2.	you (singular)	To
+	3.	he 	Ev
+	4.	we 	Em
+	5.	you (plural) 	Hun
+	6.	they 	Evinà
+	7.	this 	vi
+	8.	that 	Ev
+	9.	here 	Virà
+	10.	there 	Videri
+	11.	who 	Ki
+	12.	what 	çi
+	13.	where 	koderi
+	14.	when 	key
+	15.	how 	çitur/çigune
+	16.	not 	-
+	17.	all 	temàm/ye-eijà
+	18.	many 	zide
+	19.	some 	nighiley/kem
+	20.	few 	kim
+	21.	other 	evinà
+	22.	one 	dàney
+	23.	two 	do-dine
+	24.	three 	se-dine
+	25.	four 	çihar-dine
+	26.	five 	pinj-dine
+	27.	big 	gir
+	28.	long 	dirij
+	29.	wide 	pàn
+	30.	thick 	koloft
+	31.	heavy 	sengin
+	32.	small 	buçuk
+	33.	short 	buçuk
+	34.	narrow 	tengàm
+	35.	thin 	làgher/àjiz
+	36.	woman 	jinik
+	37.	man (adult male) 	mirik
+	38.	Man (human being) 	mirik
+	39.	child 	xuàn
+	40.	wife 	jin
+	41.	husband 	mirik
+	42.	mother 	di/màmà
+	43.	father 	bàv/dede
+	44.	animal 	haywàn
+	45.	fish 	màsi
+	46.	bird 	perende/
+	47.	dog 	guçik
+	48.	louse 	fere
+	49.	snake 	màr/kelerus/
+	50.	worm 	kirm/
+	51.	tree 	dàrik
+	52.	forest 	jengel/
+	53.	stick 	dàrik
+	54.	fruit 	mive
+	55.	seed 	dàne
+	56.	leaf 	berg
+	57.	root 	riśe
+	58.	bark 	làf/
+	59.	flower 	gol/
+	60.	grass 	giàh
+	61.	rope 	tenàb/
+	62.	skin 	pust
+	63.	meat 	guśt
+	64.	blood 	xun/xin
+	65.	bone 	hati
+	66.	fat (n.) 	pi
+	67.	egg 	hik
+	68.	horn 	bugh/
+	69.	tail 	dirij
+	70.	feather 	per/
+	71.	hair 	mu/
+	72.	head 	kele/
+	73.	ear 	gholàgh
+	74.	eye 	çàv
+	75.	nose 	puz
+	76.	mouth 	liv/dehàn
+	77.	tooth 	didàn
+	78.	tongue 	zebàn
+	79.	fingernail 	nàxun
+	80.	foot 	ghiç
+	81.	leg 	ghiç
+	82.	knee 	juni
+	83.	hand 	dest/
+	84.	wing 	pil/
+	85.	belly 	zik
+	86.	guts 	viri
+	87.	neck 	osti
+	88.	back 	piśt
+	89.	breast 	sine/
+	90.	heart 	ghelb/dil
+	91.	liver 	gorçiy
+	92.	drink 	fir kirin
+	93.	eat 	xwarin
+	94.	bite 	gàz lixistin/gàn
+	95.	suck 	keśàndin
+	96.	spit 	tu
+	97.	vomit 	vereśi
+	98.	blow 	pof
+	99.	breathe 	nefes
+	100.	laugh 	kennin
+	101.	see 	bibin
+	102.	hear 	bibihini
+	103.	know 	zànine
+	104.	think 	fikr kirin
+	105.	smell 	bin
+	106.	fear 	tirs
+	107.	sleep 	ràketin
+	108.	live 	zindigi kirin
+	109.	die 	mirin
+	110.	kill 	mirin
+	111.	fight 	dàvi
+	112.	hunt 	śikàr kirin
+	113.	hit 	likhistin
+	114.	cut 	birin
+	115.	split 	jodà kirin
+	116.	stab 	çàghu
+	117.	scratch 	xàrin
+	118.	dig 	kindin
+	119.	swim 	śinà kirin
+	120.	fly (v.) 	pervàz kirin
+	121.	walk 	çuin/ràh çuin
+	122.	come 	hàtin
+	123.	lie 	derev
+	124.	sit 	runiśtin
+	125.	stand 	sekinie
+	126.	turn 	vegerin
+	127.	fall 	girbuin
+	128.	give 	dàye
+	129.	hold 	bixàdi kirin
+	130.	squeeze 	guviśàndin
+	131.	rub 	mis
+	132.	wash 	śuśtin
+	133.	wipe 	temiz kirin
+	134.	pull 	keśàndin
+	135.	push 	hol dàin
+	136.	throw 	pert kirin
+	137.	tie 	girih lixistin
+	138.	sew 	durin
+	139.	count 	iśmàrtin
+	140.	say 	gutin
+	141.	sing 	xàndin
+	142.	play 	bàzi kirin
+	143.	float 	ser ketin/jur ketin
+	144.	flow 	tereye
+	145.	freeze 	yex lixistin
+	146.	swell 	bin kirin
+	147.	sun 	xurśid
+	148.	moon 	hiv
+	149.	star 	sitàre
+	150.	water 	àv
+	151.	rain 	bàràn
+	152.	river 	rudxàne
+	153.	lake 	gul/ghulunbe
+	154.	sea 	deryà
+	155.	salt 	xuy
+	156.	stone 	gevir
+	157.	sand 	rig/xeli/firś
+	158.	dust	 ghobàr
+	159.	earth 	zemin
+	160.	cloud 	ebr
+	161.	fog 	dumàn
+	162.	sky 	àsmàn
+	163.	wind 	bà
+	164.	snow 	berf
+	165.	ice 	yex
+	166.	smoke 	du
+	167.	fire 	àr
+	168.	ashes 	xeli ujigh
+	169.	burn 	śevetin
+	170.	road 	jàdde
+	171.	mountain 	kuh/
+	172.	red 	sur
+	173.	green 	hiśin
+	174.	yellow 	zer
+	175.	white 	sis
+	176.	black 	reś
+	177.	night 	śev
+	178.	day 	ru
+	179.	year 	sàl
+	180.	warm 	germ/
+	181.	cold 	sàr
+	182.	full 	pir
+	183.	new 	tezze
+	184.	old 	kune
+	185.	good 	rind
+	186.	bad 	pis
+	187.	rotten 	xeràb
+	188.	dirty 	ghirij
+	189.	straight 	ràst/
+	190.	round 	golur
+	191.	sharp 	tuj
+	192.	dull 	-
+	193.	smooth 	sàf
+	194.	wet 	ter/
+	195.	dry 	hiśk
+	196.	correct 	dorost/
+	197.	near 	nizik
+	198.	far 	dur
+	199.	right 	ràst/
+	200.	left 	çep/
+	201.	at 	der/
+	202.	in 	le/dar/
+	203.	with 	bà/
+	204.	and 	ve/
+	205.	if 	eger/
+	206.	because 	levàvey
+	207.	name 	niv
